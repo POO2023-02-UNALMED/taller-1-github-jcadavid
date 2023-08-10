@@ -1,2 +1,6 @@
 Juan Felipe Cadavid - 27 Años
 Mis aspiraciones es complementar los conocimientos que ya poseeo y llenar vacios respecto a diferentes temas de POO.
+
+Git no permite agregar carpetas a los commits. La forma en que funcioan directamente no lo permite al solo permitir un git add sobre archivos y de ahí origina toda la estructura de archivos. Ya agregando el archivo respuesta.txt se permite agregar y crea la carpeta.
+
+Es importante tener cuidado, debido a que diferentes personas estarán trabajando sobre el código y se debe conservar siempre la funcionalidad(nueva o anterior) o arreglos realizados en cada commit. Conflictos siempre van a ocurrir, por eso la mejor estructura para trabajar con Git es a través de diversas ramas y mergear con main/master
