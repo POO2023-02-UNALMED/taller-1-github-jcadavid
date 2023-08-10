@@ -1,0 +1,1 @@
+Git no permite agregar carpetas a los commits. La forma en que funcioan directamente no lo permite al solo permitir un git add sobre archivos y de ahí origina toda la estructura de archivos. Ya agregando el archivo respuesta.txt se permite agregar y crea la carpeta.
